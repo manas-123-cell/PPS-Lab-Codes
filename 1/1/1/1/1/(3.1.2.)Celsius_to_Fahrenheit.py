@@ -1,3 +1,0 @@
-cel=float(input())
-f=(cel*9/5)+32
-print(f"{f:.2f}")
